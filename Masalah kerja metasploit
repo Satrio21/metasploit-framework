@@ -1,0 +1,137 @@
+Unknown command: Permission
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:243:in `mkdir'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:243:in `mkdir'"
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:243:in `fu_mkdir'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:243:in `fu_mkdir'"
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:217:in `mkdir_p'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:217:in `mkdir_p'"
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:215:in `reverse_each'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:215:in `reverse_each'"
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:215:in `mkdir_p'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:215:in `mkdir_p'"
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:201:in `each'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:201:in `each'"
+ msf6 > /usr/lib/ruby/1.8/fileutils.rb:201:in `mkdir_p'
+ [-] Parse error: Unmatched double quote: "/usr/lib/ruby/1.8/fileutils.rb:201:in `mkdir_p'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:145:in `mkdir'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:145:in `mkdir'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:162:in `compile'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:162:in `compile'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:127:in `each_with_index'[-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support .rb:127:in `each_with_index'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:160:in `each'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:160:in `each'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:160:in `each_with_index'[-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support .rb:160:in `each_with_index'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:160:in `compile'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:160:in `compile'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:138:in `compile_and_load'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:138:in `compile_and_load'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:37:in `start'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:37:in `start'"
+ msf6 > /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:205
+ [-] Unknown command: /usr/local/lib/passenger/lib/phusion_passenger/native_support.rb:205
+ msf6 > /usr/local/lib/passenger/helper-scripts/rack-preloader.rb:48:in `require'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/helper-scripts/rack-preloader.rb:48:in `require'"
+ msf6 > /usr/local/lib/passenger/helper-scripts/rack-preloader.rb:48:in `init_passenger'
+ [-] Parse error: Unmatched double quote: "/usr/local/lib/passenger/helper-scripts/rack-preloader.rb:48:in `init_passenger'"
+ msf6 > /usr/local/lib/passenger/helper-scripts/rack-preloader.rb:126
+ [-] Unknown command: /usr/local/lib/passenger/helper-scripts/rack-preloader.rb:126
+ msf6 >
+ msf6 > Application root
+ [-] Unknown command: Application
+ msf6 > /usr/local/lib/redmine-2.3.1
+ [-] Unknown command: /usr/local/lib/redmine-2.3.1
+ msf6 > Environment (value of RAILS_ENV, RACK_ENV, WSGI_ENV and PASSENGER_ENV)
+ [-] Unknown command: Environment
+ msf6 > production
+ [-] Unknown command: production
+ msf6 > Ruby interpreter command
+ [-] Unknown command: Ruby
+ msf6 > /usr/bin/ruby1.8
+ [-] Unknown command: /usr/bin/ruby1.8
+ msf6 > User and groups
+ [-] Unknown command: User
+ msf6 > uid=33(www-data) gid=33(www-data) groups=33(www-data)
+ [-] Unknown command: uid=33(www-data)
+ msf6 > Environment variables
+ [-] Unknown command: Environment
+ msf6 > APACHE_PID_FILE=/var/run/apache2.pid
+ [-] Unknown command: APACHE_PID_FILE=/var/run/apache2.pid
+ msf6 > SHELL=/bin/sh
+ [-] Unknown command: SHELL=/bin/sh
+ msf6 > APACHE_RUN_USER=www-data
+ [-] Unknown command: APACHE_RUN_USER=www-data
+ msf6 > PASSENGER_DEBUG_DIR=/tmp/passenger.spawn-debug.9384-29886800
+ [-] Unknown command: PASSENGER_DEBUG_DIR=/tmp/passenger.spawn-debug.9384-29886800
+ msf6 > USER=www-data
+ [-] Unknown command: USER=www-data
+ msf6 > APACHE_LOG_DIR=/var/log/apache2
+ [-] Unknown command: APACHE_LOG_DIR=/var/log/apache2
+ msf6 > PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+ [-] Unknown command: PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+ msf6 > PWD=/usr/local/lib/redmine-2.3.1
+ [-] Unknown command: PWD=/usr/local/lib/redmine-2.3.1
+ msf6 > APACHE_RUN_GROUP=www-data
+ [-] Unknown command: APACHE_RUN_GROUP=www-data
+ msf6 > LANG=C
+ [-] Unknown command: LANG=C
+ msf6 > SHLVL=0
+ [-] Unknown command: SHLVL=0
+ msf6 > HOME=/var/www
+ [-] Unknown command: HOME=/var/www
+ msf6 > LOGNAME=www-data
+ [-] Unknown command: LOGNAME=www-data
+ msf6 > APACHE_LOCK_DIR=/var/lock/apache2
+ [-] Unknown command: APACHE_LOCK_DIR=/var/lock/apache2
+ msf6 > APACHE_RUN_DIR=/var/run/apache2
+ [-] Unknown command: APACHE_RUN_DIR=/var/run/apache2
+ msf6 > IN_PASSENGER=1
+ [-] Unknown command: IN_PASSENGER=1
+ msf6 > PYTHONUNBUFFERED=1
+ [-] Unknown command: PYTHONUNBUFFERED=1
+ msf6 > RAILS_ENV=production
+ [-] Unknown command: RAILS_ENV=production
+ msf6 > RACK_ENV=production
+ [-] Unknown command: RACK_ENV=production
+ msf6 > WSGI_ENV=production
+ [-] Unknown command: WSGI_ENV=production
+ msf6 > PASSENGER_ENV=production
+ [-] Unknown command: PASSENGER_ENV=production
+ msf6 > REQUEST_METHOD=GET
+ [-] Unknown command: REQUEST_METHOD=GET
+ msf6 > SERVER_PORT=80
+ [-] Unknown command: SERVER_PORT=80
+ msf6 > SERVER_ADDR=192.168.3.29
+ [-] Unknown command: SERVER_ADDR=192.168.3.29
+ msf6 > QUERY_STRING=
+ [-] Unknown command: QUERY_STRING=
+ msf6 > SERVER_PROTOCOL=HTTP/1.1
+ [-] Unknown command: SERVER_PROTOCOL=HTTP/1.1
+ msf6 > REMOTE_PORT=46465
+ [-] Unknown command: REMOTE_PORT=46465
+ msf6 > REMOTE_ADDR=192.168.2.23
+ [-] Unknown command: REMOTE_ADDR=192.168.2.23
+ msf6 > REQUEST_URI=/
+ [-] Unknown command: REQUEST_URI=/
+ msf6 > SERVER_SOFTWARE=Apache/2.2.16 (Debian)
+ [-] Unknown command: SERVER_SOFTWARE=Apache/2.2.16
+ msf6 > DOCUMENT_ROOT=/usr/local/lib/redmine-2.3.1/public
+ [-] Unknown command: DOCUMENT_ROOT=/usr/local/lib/redmine-2.3.1/public
+ msf6 > SERVER_NAME=192.168.3.29
+ [-] Unknown command: SERVER_NAME=192.168.3.29
+ msf6 > SERVER_ADMIN=[no address given]
+ [-] Unknown command: SERVER_ADMIN=[no
+ msf6 > Ulimits
+ [-] Unknown command: Ulimits
+ msf6 > Unknown
+ [-] Unknown command: Unknown
+ msf6 > System memory usage
+ [-] Unknown command: System
+ msf6 > total used free shared buffers cached
+ [-] Unknown command: total
+ msf6 > Mem: 995 635 360 0 87 421
+ [-] Unknown command: Mem:
+ msf6 > -/+ buffers/cache: 126 869
+ [-] Unknown command: -/+
+ msf6 > Swap: 1417 1 1416
+ [-] Unknown command: Swap:
+ 
